@@ -1,0 +1,27 @@
+.bodybg{
+-fx-background-image:url("./img/fondo.jpg")
+}
+.dificultadres{
+-fx-background-image:url("./img/dificultadr.png")
+}
+.dolorcabez{
+-fx-background-image:url("./img/dolorC.png")
+}
+.dolorgarga{
+-fx-background-image:url("./img/dolorg.png")
+}
+.doloresxd{
+-fx-background-image:url("./img/dolorxd.png")
+}
+.escurrimientos{
+-fx-background-image:url("./img/escurrimiento.png")
+}
+.fiebrea{
+ -fx-background-image:url("./img/fiebre.png")
+ }
+ .ojosR{
+ -fx-background-image:url("./img/ojos.png")
+ }
+ .tosini{
+ -fx-background-image:url("./img/tos.png")
+ }

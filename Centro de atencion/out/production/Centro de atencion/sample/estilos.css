@@ -1,0 +1,13 @@
+.bodybg{
+-fx-background-image:url("./img/fondo.jpg")
+}
+.imgmapa{
+-fx-background-image:url("./img/mapancg.jpg")
+}
+.flechini{
+-fx-background-image:url("./img/flechas.gif")
+}
+.liki{
+-fx-background-image:url("./img/like.gif")
+}
+
